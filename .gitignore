@@ -1,0 +1,5 @@
+venv/
+main.build/
+main.dist/
+output/
+main.dist.zip
